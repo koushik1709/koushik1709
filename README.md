@@ -5,7 +5,7 @@
 
 <!-- Animated Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver+%7C+Coding+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full+Stack+Developer;Problem+Solver+%7C+Coding+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Science Student** passionate about technology and innovation  
+🎓 **Artificial Intelligence & Machine Learning Student** passionate about technology and innovation  
 💻 Currently exploring **Full Stack Development**, **Cloud Computing** & **AI/ML**  
 🌱 Learning **Advanced DSA**, **System Design**, and **DevOps**  
 🎯 Goal: Building scalable applications that make a difference  
