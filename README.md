@@ -108,6 +108,45 @@
 
 ---
 
+## 💼 Featured Projects
+
+### 🤖 [AI Resume Analyzer](https://github.com/koushik1709/AI-Resume-Analyzer)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+**AI-powered resume analysis system using Natural Language Processing & Machine Learning**
+
+An intelligent tool that helps job seekers optimize their resumes for ATS systems and improve placement chances. Built with Python, Flask, spaCy, and scikit-learn.
+
+**🌟 Key Features:**
+- 🎯 **ATS Score Calculation** - Compatibility score (0-100%) for Applicant Tracking Systems
+- 🔍 **Skills Extraction** - Automatically identifies 40+ technical skills using NLP
+- 📊 **Job Matching** - Uses TF-IDF & Cosine Similarity for resume-JD matching
+- 💡 **Smart Suggestions** - AI-powered improvement recommendations
+- 📈 **Resume Ranking** - Compare multiple resumes against job postings
+- ✅ **Contact Extraction** - Automatically finds emails and phone numbers
+
+**🛠️ Tech Stack:**
+- **Backend**: Python, Flask, RESTful API
+- **ML/NLP**: spaCy, scikit-learn, NLTK, PyPDF2
+- **Algorithms**: TF-IDF Vectorization, Cosine Similarity, Named Entity Recognition
+- **Features**: PDF parsing, Skills detection, Pattern matching with Regex
+
+**📊 Performance:**
+- Processing Speed: < 2 seconds per resume
+- Skill Detection Accuracy: 90%+
+- Supports: PDF, DOCX, TXT formats
+
+[![View Repository](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushik1709/AI-Resume-Analyzer)
+[![View Code](https://img.shields.io/badge/View_Code-2196F3?style=for-the-badge&logo=code&logoColor=white)](https://github.com/koushik1709/AI-Resume-Analyzer/blob/main/app.py)
+
+
+
 ## 📫 Connect With Me
 
 <p align="center">
